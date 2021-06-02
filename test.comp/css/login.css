@@ -1,0 +1,22 @@
+section {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid sandybrown;
+    border-radius: 10px;
+    background-color: rgb(64, 64, 64);
+}
+
+section h1 {
+    text-align: center;
+    color: seashell;
+}
+
+.name {
+    color: sandybrown;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
